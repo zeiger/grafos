@@ -1,10 +1,11 @@
 # Biblioteca: [NetworkX](https://networkx.github.io/)
 ---
+## Finalidade:
 Uso da biblioteca para gerar grafos.  
 Abaixo, links que compõem a documentação oficial os quais foram utilizados no aprendizado. 
 ---
 
-## [Algoritmos](https://networkx.github.io/documentation/stable/reference/algorithms/index.html)
+### [Algoritmos](https://networkx.github.io/documentation/stable/reference/algorithms/index.html)
 
 ---
 
