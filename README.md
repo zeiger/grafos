@@ -1,6 +1,7 @@
 # Biblioteca: [NetworkX](https://networkx.github.io/)
 ---
-Uso da biblioteca para gerar grafos
+Uso da biblioteca para gerar grafos  
+Abaixo, links da documentação oficial que foram usados. 
 ---
 
 ## [Algoritmos](https://networkx.github.io/documentation/stable/reference/algorithms/index.html)
