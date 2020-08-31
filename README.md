@@ -2,7 +2,7 @@
 ---
 ## Finalidade:
 > Uso da biblioteca para gerar grafos.  
-> Abaixo, links que compõem a documentação oficial os quais foram utilizados no aprendizado. 
+> Abaixo, links que compõem a documentação oficial. 
 ---
 
 ### [Algoritmos](https://networkx.github.io/documentation/stable/reference/algorithms/index.html)
